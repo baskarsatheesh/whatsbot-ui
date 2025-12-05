@@ -1,6 +1,6 @@
 # WhatsBot UI
 
-A Perplexity-like AI search and chat interface built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui.
+WhatsBot Chat - AI search and chat interface built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui.
 
 ## Features
 

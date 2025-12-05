@@ -17,7 +17,7 @@ git push -u origin main
 
 1. Go to https://github.com/new
 2. Repository name: `whatsbot-ui` (or your preferred name)
-3. Description: "Perplexity-like AI chat UI with Next.js and WhatsBot backend"
+3. Description: "WhatsBot Chat UI with Next.js and WhatsBot backend"
 4. Choose Public or Private
 5. **DO NOT** initialize with README, .gitignore, or license (we already have these)
 6. Click "Create repository"

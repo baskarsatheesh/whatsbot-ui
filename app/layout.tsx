@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'WhatsBot - AI Search & Chat',
-  description: 'Perplexity-like AI search and chat interface',
+  description: 'WhatsBot Chat - AI search and chat interface',
 }
 
 export default function RootLayout({
